@@ -1,0 +1,4 @@
+kill_10_antibodies
+reach_level_5
+collect_100_xp
+survive_60s
